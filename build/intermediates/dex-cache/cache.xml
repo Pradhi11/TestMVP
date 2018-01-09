@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/pradeep/TestMVP/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="27fd77f2e88194cd3e9fb815576f9892fcdda34c">
+        <dex dex="/Users/pradeep/TestMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a187402eeae61dd43528fdece17140b85cb4990b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pradeep/.android/build-cache/bfaf121fc44cc347d51597c68625dce02520f9b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="/Users/pradeep/TestMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b688b45ac8aed673b5de2ae57ed100ca8f97c097/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pradeep/.android/build-cache/37449017e641f85f017a09e6251f4c93b9e41a0d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="/Users/pradeep/TestMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c08ce042599cd62e5a512c6e889adde51075185c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pradeep/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="/Users/pradeep/TestMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-27.0.2_65c1d6b254e1199cb002f23a8457f51600557345/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pradeep/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/pradeep/TestMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_08f9fa6585d3070460cf59f0af8ec3355356928f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pradeep/.android/build-cache/cd47cd5392603d1a65d6dbe0ec551ad0eb3c4487/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="/Users/pradeep/TestMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4cbbd0255fcadfd396a4ac330e05fd213f047b01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pradeep/.android/build-cache/5337acc625db76f985c2756a3fc5ba38b0906b2e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="/Users/pradeep/TestMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3b6a0efe64e917f17b2ebf54f25fafcceeac81b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pradeep/.android/build-cache/b664227ff78f7775e74cb0658bde517270ebe886/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="/Users/pradeep/TestMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6aadf6b93dbc8974f40b03c1fb34a79e1cf5016d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pradeep/TestMVP/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/pradeep/TestMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4a912f6d02a8465c740f06e2ff8184abc3faf8a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pradeep/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="/Users/pradeep/TestMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.3_99cf467b41f3cb7f1aeca607d89a2c2076f41daa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pradeep/.android/build-cache/d92222bb9928dfdd62e68a823f38e6644d9e012e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/pradeep/TestMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac1205f7c9c75543f25ee1a7f815a708f0db2c8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pradeep/.android/build-cache/f371f89e151d528d94b7b152841bd0f64bc2ab9a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="/Users/pradeep/TestMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5a5e6bbb4667fbc6da45003c4dedee16d1b0c9de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pradeep/.android/build-cache/2352f0b9f6e1b72cba8301c5e2423e51d8a98db7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="/Users/pradeep/TestMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_632a996854640baea25132aa8a602784f479b7cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pradeep/.android/build-cache/2bccf4fb21a19d99f6fee78f49f87664f9ddf4d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="/Users/pradeep/TestMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc6e7571e35d1c22d357b448f3213a2c9068ad23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pradeep/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/pradeep/TestMVP/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_1b2feb87c2dd6426efcd7a97ed76f79bbf57f4f3/classes.dex" />
+    </item>
+
+</items>
